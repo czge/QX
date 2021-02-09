@@ -1,4 +1,6 @@
 # > Clubhouse
+IP-CIDR,52.52.84.170/32,no-resolve
+ip-cidr, 164.52.102.0/24, direct
 DOMAIN-SUFFIX,vocs1.agora.io,Clubhouse
 DOMAIN-SUFFIX,ap3.agora.io,Clubhouse
 DOMAIN-SUFFIX,maintenance.joinclubhouse.com,Clubhouse
