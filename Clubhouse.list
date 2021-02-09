@@ -9,7 +9,6 @@ DOMAIN-SUFFIX,api.amplitude.com,Clubhouse
 DOMAIN-KEYWORD,clubhousepro,Clubhouse
 DOMAIN-KEYWORD,clubhouseapi,Clubhouse
 DOMAIN-KEYWORD,joinclubhouse,Clubhouse
-IP-CIDR,45.255.124.0/24
 IP-CIDR,129.227.57.0/24
 IP-CIDR,23.248.191.0/24
 IP-CIDR,164.52.6.0/24
